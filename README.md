@@ -1,4 +1,4 @@
-# Hey, I'm Dev 👋
+# Hey, I'm Devyn 👋
 
 Software Engineer at **The Kroger Co.** based out of Cincinnati, OH, working in the native iOS ecosystem that powers grocery shopping for millions of customers!
 
