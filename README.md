@@ -19,10 +19,10 @@ A few things I've been heads-down on lately:
 
 ## Tech I work with 💻
 
-**Languages:** Swift · TypeScript · Bash · Zsh  
-**iOS:** SwiftUI · UIKit · Swift Concurrency  
-**CI/CD:** GitHub Actions · Xcode Cloud · Fastlane  
-**Tooling:** App Store Connect API · Swift Argument Parser · MongoDB · Metabase  
+**Languages:** Swift · TypeScript · Bash · Python
+**iOS:** SwiftUI · UIKit · Swift Concurrency
+**CI/CD:** GitHub Actions · Xcode Cloud · Fastlane
+**Tooling:** Xcode · App Store Connect API · Swift Argument Parser · MongoDB  
 **Hardware tinkering:** Arduino · I2C · Serial comms (Swift ↔ embedded)
 
 ---
@@ -32,7 +32,7 @@ A few things I've been heads-down on lately:
 When I'm not in Xcode, I'm probably:
 
 - Playing Volleyball
-- RP'ing in a D&D campaign — I built a [SwiftUI combat timer app](https://github.com/devyn) for it, but it's still early in development.
+- RP'ing in a D&D campaign — I built a SwiftUI combat timer app for it, but it's still early in development.
 - Tinkering with IoT projects (current dig: an ambient GitHub PR status display on a 16x2 LCD driven by an Arduino Nano)
 - Motorcycling
 - Gaming on my recently upgraded RTX 5070 build. In the process of grinding ranked Apex Legends and Destiny 2!
